@@ -1,4 +1,4 @@
-**Minecraft Build-In Programmer Art Textures**
+**Minecraft Built-In Programmer Art Textures**
 
 Obviously, these are built into the game. You
 don't need this in order to use them. This is
